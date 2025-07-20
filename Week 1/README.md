@@ -1,12 +1,20 @@
-# Week 1 at CSI 🚀
+# Week 1
 
-### Tasks completed in this week - 10/06/2023
+**Name:** Mohd Suheb Siddique  
+**Employee ID:** CT_CSI_RJ_5794  
+**Organization:** Celebal Technology  
+**Post:** Summer Intern
 
-1. Learned the basics of HTML, CSS and JavaScript. ✅
-2. Understood the basic architecture of React. ✅
-3. Environment setup - VS Code extension install [Babel, Prettier, ES6 Code Snippets] and React Web Dev Tool For Chrome. ✅
-4. Node JS install, VS Code install and other basic requirements. ✅
-5. Create the first React app for demo purposes. ✅
-6. Understood the component-based architecture of React JS. ✅
+---
 
-#### © to [Rajarshi Samaddar](https://www.linkedin.com/in/rajarshisamaddar/)
+## What I Learned
+
+- Basics of HTML, CSS, and JavaScript
+- Introduction to React and its architecture
+- Setting up the development environment (Node.js, VS Code, React Dev Tools)
+- Creating the first React app
+- Understanding component-based architecture in React
+
+---
+
+*This folder contains the work for Week 1 of the Celebal Technology Summer Internship.*
