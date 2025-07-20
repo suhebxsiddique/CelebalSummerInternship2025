@@ -183,7 +183,7 @@ CelebalSummerInternship2025/
 
 For any queries or collaboration, feel free to reach out:
 - **GitHub:** [suhebxsiddique](https://github.com/suhebxsiddique)
-- **Email:** (add your email here if desired)
+- **Email:** Mohdsuhebsiddique@gmail.com
 
 ---
 
