@@ -13,6 +13,7 @@
     - [Week 5](#week-5)
     - [Week 6](#week-6)
     - [Week 7](#week-7)
+    - [Week 8](#week-8)
 4. [How to Run the Projects](#how-to-run-the-projects)
 5. [Repository Structure](#repository-structure)
 6. [Contact](#contact)
@@ -30,7 +31,7 @@
 
 ## Internship Overview
 
-This repository contains all the work completed during my 7-week Summer Internship at Celebal Technology in 2025. Each week focused on different aspects of web development, primarily using React.js, and culminated in hands-on projects and learning outcomes.
+This repository contains all the work completed during my 8-week Summer Internship at Celebal Technology in 2025. Each week focused on different aspects of web development, primarily using React.js, and culminated in hands-on projects and learning outcomes.
 
 ---
 
@@ -117,11 +118,23 @@ This repository contains all the work completed during my 7-week Summer Internsh
   - Seamless navigation and smooth user experience
 - **Location:** [`Week 7/ecommerce-store`](./Week%207/ecommerce-store)
 
+### Week 8
+- **Project:** Ticket Booking Application - EventHub (React, Material-UI)
+- **Features:**
+  - Advanced event booking platform with modern UI/UX
+  - User authentication and protected routes
+  - Event discovery and category filtering
+  - Booking management with seat selection
+  - Admin dashboard for event management
+  - Professional Netflix/Zomato-style navigation
+  - Responsive design with Material-UI components
+- **Location:** [`Project/Ticket Booking Application/ticket-booking-app`](./Project/Ticket%20Booking%20Application/ticket-booking-app)
+
 ---
 
 ## How to Run the Projects
 
-Each major project (Weeks 5, 6, 7) is a standalone React app. To run any of these projects locally:
+Each major project (Weeks 5, 6, 7, 8) is a standalone React app. To run any of these projects locally:
 
 1. **Navigate to the project directory:**
    ```sh
@@ -174,6 +187,15 @@ CelebalSummerInternship2025/
 │       ├── package.json
 │       ├── public/
 │       └── src/
+├── Project/
+│   ├── README.md
+│   └── Ticket Booking Application/
+│       ├── README.md
+│       ├── Screenshot/
+│       └── ticket-booking-app/
+│           ├── package.json
+│           ├── public/
+│           └── src/
 └── suhebsiddique.mp4
 ```
 
